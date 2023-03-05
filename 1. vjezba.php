@@ -1,7 +1,7 @@
 <?php
 
 /*
-1. Write a PHP program to compute the sum of the two given integer values.
+Write a PHP program to compute the sum of the two given integer values.
 If the two values are the same, then returns triple their sum.
 Sample Input:
 1, 2

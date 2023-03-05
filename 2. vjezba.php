@@ -1,7 +1,7 @@
 <?php
 
 /*
-2. Write a PHP program to get the absolute difference between n and 51. 
+Write a PHP program to get the absolute difference between n and 51. 
 If n is greater than 51 return triple the absolute difference.
 Sample Input:
 55

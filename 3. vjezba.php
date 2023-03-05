@@ -1,6 +1,6 @@
 <?php
 /*
-3. Write a PHP program to check two given integers, and return true if one of them is 30 or if their sum is 30.
+Write a PHP program to check two given integers, and return true if one of them is 30 or if their sum is 30.
 Sample Input:
 30, 0
 25, 5
